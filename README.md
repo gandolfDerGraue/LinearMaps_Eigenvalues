@@ -2,7 +2,7 @@
 
 the grid shows the linear map, which is represented by the matrix
 
-hover mouse over matrix entries, type a number to edit entry
+hover mouse over matrix entries, type a number to edit entry,
 click on entry to make it negative
 
 first button active-> move mouse left to right to animate the linear map
